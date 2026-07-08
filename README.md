@@ -113,11 +113,11 @@ Building scalable web applications and AI-powered software using modern technolo
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Metrices
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Codesmashershubh&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github.com/Codesmashershubh/Codesmashershubh/blob/main/github-metrics.svg"/>
 
 </p>
 
