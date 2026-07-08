@@ -91,33 +91,11 @@ Building scalable web applications and AI-powered software using modern technolo
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Codesmashershubh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codesmashershubh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Codesmashershubh&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Metrices
-
-<p align="center">
-
-<img src="https://github.com/Codesmashershubh/Codesmashershubh/blob/main/github-metrics.svg"/>
 
 </p>
 
