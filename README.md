@@ -1,114 +1,170 @@
-# Hi there 👋, I'm Shubham Shukla
+<div align="center">
 
-### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
+# Hi 👋, I'm Shubham Shukla
 
-I'm a Computer Science student passionate about building scalable web applications and AI-powered software that solves real-world problems. I enjoy turning ideas into production-ready applications using modern technologies.
+### Full Stack Developer • AI Enthusiast • Problem Solver
+
+Building scalable web applications and AI-powered software using modern technologies.
+
+<p>
+  <a href="https://github.com/Codesmashershubh">
+    <img src="https://komarev.com/ghpvc/?username=Codesmashershubh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🌱 Currently learning **AI Engineering, LLM Applications, and System Design**
-* 💻 Passionate about **Full Stack Development & Artificial Intelligence**
-* 🤖 Building AI-powered applications using **Python, FastAPI, React & TypeScript**
-* 🎯 Preparing for Software Development Engineer (SDE) roles
-* 📫 Always open to learning, collaborating, and building impactful projects
+- 🎓 Computer Science Student
+- 💻 Passionate about Full Stack Development & AI
+- 🤖 Building AI-powered applications with FastAPI & React
+- 🌱 Currently learning AI Engineering, LLMs and System Design
+- 🎯 Preparing for Software Development Engineer (SDE) roles
+- 🚀 Always learning something new
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-* Python
-* JavaScript
-* TypeScript
-* Java
-* C++
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript"/>
+</p>
 
 ### Frontend
 
-* React
-* Vite
-* Tailwind CSS
-* HTML5
-* CSS3
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css"/>
+</p>
 
 ### Backend
 
-* FastAPI
-* Node.js
-* Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
 
-### Databases
+### Database
 
-* MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
 
-### Tools & Platforms
+### Tools
 
-* Git
-* GitHub
-* Postman
-* VS Code
-* Render
-* Vercel
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Resume Screener & Candidate Ranking Tool
-
-* AI-powered resume analysis and candidate ranking
-* Resume parsing for PDF & DOCX
-* Explainable candidate scoring
-* FastAPI + React + TypeScript
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-### 🎯 Face Recognition Attendance System
+# 🚀 Featured Projects
 
-* AI-based face recognition
-* Attendance automation
-* Real-time face detection
-* Full-stack deployment
+## 🤖 AI Resume Screener & Candidate Ranking Tool
 
----
-
-### 🌐 Full Stack Web Applications
-
-* MERN Stack Projects
-* Authentication
-* REST APIs
-* Responsive UI
+- AI-powered Resume Parsing
+- Candidate Ranking Engine
+- Explainable Scoring
+- FastAPI + React + TypeScript
+- Responsive Recruiter Dashboard
 
 ---
 
-## 📈 Currently Exploring
+## 🎯 Face Recognition Attendance System
 
-* Large Language Models (LLMs)
-* AI Agents
-* Retrieval-Augmented Generation (RAG)
-* System Design
-* Cloud Deployment
-
----
-
-## 🎯 Goals for 2026
-
-* Build production-ready AI applications
-* Contribute to Open Source
-* Crack SDE interviews
-* Master Full Stack + AI Engineering
+- Real-time Face Recognition
+- Attendance Automation
+- AI-powered Detection
+- Full Stack Architecture
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Full Stack Web Applications
 
-* GitHub: https://github.com/Codesmashershubh
-* LinkedIn: https://www.linkedin.com/in/shubham-shukla-66b5a0378?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Authentication
+- REST APIs
+- Responsive UI
+- MERN Stack
 
 ---
 
-⭐ *"Code. Learn. Build. Improve. Repeat."*
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Codesmashershubh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codesmashershubh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Codesmashershubh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Codesmashershubh&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codesmashershubh&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+- AI Agents
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- System Design
+- Cloud Deployment
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build Production-Ready AI Applications
+- ✅ Master Full Stack Development
+- ✅ Contribute to Open Source
+- ✅ Crack Top SDE Interviews
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shubham-shukla-66b5a0378?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: shubhamshukla122005@gmail.com
+- 🌐 Portfolio: https://ss-website.netlify.app/
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building software that solves real-world problems."*
+
+</div>
 
