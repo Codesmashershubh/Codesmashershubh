@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Shubham Shukla
+# Hi , I'm Shubham Shukla
 
 ### Full Stack Developer • AI Enthusiast • Problem Solver
 
@@ -18,12 +18,12 @@ Building scalable web applications and AI-powered software using modern technolo
 
 # 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Passionate about Full Stack Development & AI
-- 🤖 Building AI-powered applications with FastAPI & React
-- 🌱 Currently learning AI Engineering, LLMs and System Design
-- 🎯 Preparing for Software Development Engineer (SDE) roles
-- 🚀 Always learning something new
+-  Computer Science Student
+-  Passionate about Full Stack Development & AI
+-  Building AI-powered applications with FastAPI & React
+-  Currently learning AI Engineering, LLMs and System Design
+-  Preparing for Software Development Engineer (SDE) roles
+-  Always learning something new
 
 ---
 
@@ -63,7 +63,7 @@ Building scalable web applications and AI-powered software using modern technolo
 
 # 🚀 Featured Projects
 
-## 🤖 AI Resume Screener & Candidate Ranking Tool
+##  AI Resume Screener & Candidate Ranking Tool
 
 - AI-powered Resume Parsing
 - Candidate Ranking Engine
@@ -73,7 +73,7 @@ Building scalable web applications and AI-powered software using modern technolo
 
 ---
 
-## 🎯 Face Recognition Attendance System
+##  Face Recognition Attendance System
 
 - Real-time Face Recognition
 - Attendance Automation
@@ -82,7 +82,7 @@ Building scalable web applications and AI-powered software using modern technolo
 
 ---
 
-## 🌐 Full Stack Web Applications
+##  Full Stack Web Applications
 
 - Authentication
 - REST APIs
@@ -130,7 +130,7 @@ Building scalable web applications and AI-powered software using modern technolo
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shubham-shukla-66b5a0378?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 Email: shubhamshukla122005@gmail.com
