@@ -111,7 +111,7 @@ Building scalable web applications and AI-powered software using modern technolo
 
 ---
 
-# 🎯 Currently Learning
+#  Currently Learning
 
 - AI Agents
 - Large Language Models (LLMs)
