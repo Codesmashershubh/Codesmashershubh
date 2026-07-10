@@ -61,7 +61,7 @@ Building scalable web applications and AI-powered software using modern technolo
 
 ---
 
-# 🚀 Featured Projects
+ 🚀 Featured Projects
 
 ##  AI Resume Screener & Candidate Ranking Tool
 
