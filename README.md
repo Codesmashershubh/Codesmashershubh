@@ -176,7 +176,7 @@ flowchart LR
 ## `07` Current Objectives
 
 ```diff
-+ Build production-ready AI applications
++ Build production-ready  applications
 + Master full-stack architecture end-to-end
 + Contribute meaningfully to open source
 ! Crack top-tier SDE interviews — in progress
